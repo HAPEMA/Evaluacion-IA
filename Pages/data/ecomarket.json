@@ -1,0 +1,64 @@
+{
+  "sucursales": [
+    {
+      "id": 1,
+      "nombre": "EcoMarket Central",
+      "ubicacion": "Santiago Centro",
+      "empleados": ["Ana", "Pedro"],
+      "productos": [
+        {"sku": "A001", "nombre": "Manzanas", "cantidad": 50},
+        {"sku": "A002", "nombre": "Peras", "cantidad": 35},
+        {"sku": "A003", "nombre": "Plátanos", "cantidad": 60},
+        {"sku": "A004", "nombre": "Naranjas", "cantidad": 40}
+      ]
+    },
+    {
+      "id": 2,
+      "nombre": "EcoMarket Norte",
+      "ubicacion": "Antofagasta",
+      "empleados": ["Luis", "Claudia"],
+      "productos": [
+        {"sku": "B001", "nombre": "Pan Integral", "cantidad": 45},
+        {"sku": "B002", "nombre": "Leche Descremada", "cantidad": 30},
+        {"sku": "B003", "nombre": "Yogurt Natural", "cantidad": 25},
+        {"sku": "B004", "nombre": "Queso Fresco", "cantidad": 20}
+      ]
+    },
+    {
+      "id": 3,
+      "nombre": "EcoMarket Sur",
+      "ubicacion": "Concepción",
+      "empleados": ["María", "Andrés"],
+      "productos": [
+        {"sku": "C001", "nombre": "Arroz", "cantidad": 100},
+        {"sku": "C002", "nombre": "Fideos", "cantidad": 80},
+        {"sku": "C003", "nombre": "Aceite de Girasol", "cantidad": 40},
+        {"sku": "C004", "nombre": "Harina Integral", "cantidad": 55}
+      ]
+    },
+    {
+      "id": 4,
+      "nombre": "EcoMarket Oriente",
+      "ubicacion": "Las Condes",
+      "empleados": ["Diego", "Sofía"],
+      "productos": [
+        {"sku": "D001", "nombre": "Tomates", "cantidad": 70},
+        {"sku": "D002", "nombre": "Zanahorias", "cantidad": 65},
+        {"sku": "D003", "nombre": "Lechuga", "cantidad": 50},
+        {"sku": "D004", "nombre": "Paltas", "cantidad": 30}
+      ]
+    },
+    {
+      "id": 5,
+      "nombre": "EcoMarket Poniente",
+      "ubicacion": "Maipú",
+      "empleados": ["Javier", "Camila"],
+      "productos": [
+        {"sku": "E001", "nombre": "Pollo Entero", "cantidad": 20},
+        {"sku": "E002", "nombre": "Carne Molida", "cantidad": 25},
+        {"sku": "E003", "nombre": "Pescado Fresco", "cantidad": 15},
+        {"sku": "E004", "nombre": "Huevos de Campo", "cantidad": 50}
+      ]
+    }
+  ]
+}
