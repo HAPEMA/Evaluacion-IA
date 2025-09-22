@@ -6,3 +6,4 @@ dist
 .idea
 *.log
 RA1/
+.gitignore
